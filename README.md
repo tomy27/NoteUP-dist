@@ -1,4 +1,4 @@
 # NoteUP-dist
 Chrome extension - NoteUP (dist)
 
-Note taking app from Google Chrome.
+Note taking app for Google Chrome.
