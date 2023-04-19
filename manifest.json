@@ -1,0 +1,15 @@
+{
+    "name": "NoteUP",
+    "version": "1.0.0",
+    "description": "Make quick notes and to-do list with NoteUP.",
+    "manifest_version": 3,
+    "icons": {
+        "48": "/assets/logo48r.png",
+        "128": "/assets/logo-29c4b5e7.png"
+      },
+    "author": "Tamas Kereszturi",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "NoteUP"
+    }
+}
